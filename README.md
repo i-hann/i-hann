@@ -1,7 +1,3 @@
 - 👋 Hi, I’m @i-hann
-- 👀 I’m interested in RESTful APIs, NodeJS, and Discord bot development
-
-<!---
-i-hann/i-hann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- By day, I work in the IT monitoring & automation space. I have worked with Moogsoft, Microsoft SCOM, Solarwinds, Silverpeak, Gluware, Site24x7, Appneta, DC Expert, and AWS. 
+- By night, I enjoy working on side projects involving Raspberry Pi, Discord bots, etc.
