@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @i-hann
-- By day, I work in the IT monitoring & automation space. I have worked with Moogsoft, Microsoft SCOM, Solarwinds, Silverpeak, Gluware, Site24x7, Appneta, DC Expert, and AWS. 
-- By night, I enjoy working on side projects involving Raspberry Pi, Discord bots, etc.
+- By day, I work in the IT monitoring & automation space. 
+- By night, I enjoy working on side projects involving Discord bots, AWS, etc.
